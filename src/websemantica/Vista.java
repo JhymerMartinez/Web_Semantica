@@ -8,10 +8,7 @@ import java.util.ArrayList;
 import java.util.List;
 import org.jdesktop.observablecollections.ObservableList;
 
-/**
- *
- * @author Freddy
- */
+
 public class Vista extends javax.swing.JFrame {
 
     /**
